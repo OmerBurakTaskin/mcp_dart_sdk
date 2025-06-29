@@ -3,7 +3,6 @@ description: "Mcp sdk made for dart."
 version: 1.0.0+1
 homepage: https://github.com/OmerBurakTaskin/mcp_dart_sdk/settings
 
-publish_to: "none"
 
 
 environment:
